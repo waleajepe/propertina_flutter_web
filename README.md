@@ -1,16 +1,9 @@
-# real_estate
+# Flutter Web 
 
-A new Flutter project.
+## Page Preview I
+<br>
+<img src="https://user-images.githubusercontent.com/78100508/194088023-67874a62-2697-4107-ad4d-2bbf27dac4c7.png"/>
 
-## Getting Started
+## Page Preview II
+<img src="https://user-images.githubusercontent.com/78100508/194088457-cc982587-69aa-4e23-8e8f-03a14a09f110.png"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
